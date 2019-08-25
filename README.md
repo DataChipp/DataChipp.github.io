@@ -1,2 +1,2 @@
-# DataChipp.github.io
+# datachipp.github.io
 DataChipp
